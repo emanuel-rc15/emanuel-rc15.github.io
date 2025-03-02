@@ -135,7 +135,6 @@
 
  <div class="general-3 txt" id="contact">
             <img src="images/Banner_contactenos_esp2.jpg" alt="">
-
 <h3>Contacto</h3>
             <pre>
   Para consultas o presupuestos comunicarse al:
