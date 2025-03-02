@@ -8,7 +8,7 @@
     <title>Document</title>
     <link rel="stylesheet" href="style.css">
    
-<style>
+ <style>
         body {
             background-color: dimgray;
         }
@@ -28,11 +28,11 @@
         </ul>
     </nav>
 
-<div class="header-content container">
+ <div class="header-content container">
 
-<div class="header-txt">
+ <div class="header-txt">
 
-<h1>DIEMA</h1>
+ <h1>DIEMA</h1>
             <P>Servicios de Mantenimiento</P>
         </div>
     </div>
@@ -46,7 +46,7 @@
         <h3></h3>
 
 
-</div>
+ </div>
     <br>
     <br>
     <br>
@@ -64,9 +64,9 @@
                 y plomería, logrando así brindar gran variedad de soluciones técnicas a nuestros clientes, quienes nos
                 reconocen por la calidad de nuestro trabajo y la buena atención.
 
-</p>
+ </p>
 
-</div>
+ </div>
 
 <div class="general-2 txt" id="service">
             <img src="images/Mantenimiento_residencial.jpg" alt="">
@@ -79,8 +79,8 @@
                 REFRIGERACION COMERCIAL, SISTEMAS DE BOMBEO DE LIQUIDOS (bombas de elevación, achique, presurización,
                 filtrado, riego) y PLOMERIA.
 
-</p>
-</div>
+ </p>
+        </div>
 
         
 <div class="ful-img" id="fulImgBox">
@@ -128,18 +128,9 @@
                                                                 <img src="images/img-34.jpg"   onclick="openFulImg(this.src)" alt="">
                                                                  </div>
                                                     
-                                                                 
-
- </div>
+</div>
                <script src="script.js"></script>
               
-
-
-
-       
-           
-
-
 </div>
 
  <div class="general-3 txt" id="contact">
@@ -153,258 +144,21 @@
  Cel/WhatsApp-3415321372  
  Email-emanuelquiroga444@gmail.com
                                     </pre>
-        </div>/wa.me/543415321372?text=Deseo consultar por un servicio!" target="_blank">
+        </div>
+    </div>
+    <div class="container-boton">
+        <a href="https://wa.me/543415321372?text=Deseo consultar por un servicio!" target="_blank">
             <img class="boton" src="images/whatsapp-fill.svg"></a>
     </div>
-
-
- <br>
-
+<br>
 <iframe
      src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13381.197940404762!2d-60.633373500000005!3d-33.02223949999998!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b7a98c824062b9%3A0xdd36a5a33ee34583!2sDiema%20(servicios%20de%20mantenimiento)!5e0!3m2!1ses-419!2sar!4v1701058456267!5m2!1ses-419!2sar"
      width="1250px"
      height="600"
      frameborder="0">
      </iframe>
-     
- </body>
-
-</html>
-                                                                                                                                   
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-
-
-
-  
-
-
-       
-
-     
-
-              
-
-
-
-       
-           
-
-
-
-
-  
-                                                                                                                                   
-
-
-
-
-
-
-      
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+     </body>
+     </html>
 
 
 
